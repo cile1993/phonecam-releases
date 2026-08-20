@@ -55,5 +55,14 @@ WebRTC.
 Each release lists a SHA256 checksum.
 
 ```powershell
-Get-FileHash .\PhoneCam-Setup-0.1.0.exe -Algorithm SHA256
+Get-FileHash .\PhoneCam-Setup-0.3.0.exe -Algorithm SHA256
 ```
+
+## Licence
+
+PhoneCam is proprietary software. Installing and using it is free; redistributing
+it, reselling it or reverse engineering it is not. The full terms are shown
+during installation and are included with the installed files.
+
+It is built on open source components, all permissively licensed, whose notices
+ship alongside the application.
